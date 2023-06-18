@@ -1,0 +1,21 @@
+{
+  "name": "adaptive-fetch",
+  "version": "1.0.0",
+  "description": "Function to send HTTP requests with a specified frequency",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davey2/adaptive-fetch.git"
+  },
+  "keywords": [
+    "adaptive",
+    "fetch",
+    "frequency"
+  ],
+  "author": "David Brutoczki <david.brutoczki@pm.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davey2/adaptive-fetch/issues"
+  },
+  "homepage": "https://github.com/davey2/adaptive-fetch#readme"
+}
