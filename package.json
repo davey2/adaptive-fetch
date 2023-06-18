@@ -2,6 +2,7 @@
   "name": "adaptive-fetch",
   "version": "1.0.0",
   "description": "Function to send HTTP requests with a specified frequency",
+  "type": "module",
   "main": "index.js",
   "repository": {
     "type": "git",
